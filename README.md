@@ -45,3 +45,5 @@ Github folders:
  
 <img src="http://i.imgur.com/s5El0WL.png"/>
 
+##References:
+https://github.com/udacity/frontend-nanodegree-feedreader
