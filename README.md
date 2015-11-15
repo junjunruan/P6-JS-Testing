@@ -44,3 +44,6 @@ Github folders:
  In order to see if tests are working, we can edit the corresponding code in app.js and make tests fail. In the end, all tests should pass.
  
 <img src="http://i.imgur.com/s5El0WL.png"/>
+
+##References:
+https://github.com/udacity/frontend-nanodegree-feedreader
